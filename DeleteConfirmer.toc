@@ -1,0 +1,4 @@
+## Interface: 80300
+## Title: DeleteConfirmer
+## Notes: Dangerous addon that instantly confirms any item deletion
+DeleteConfirmer.lua
