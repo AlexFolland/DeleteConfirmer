@@ -1,4 +1,10 @@
-## Interface: 80300
+## Interface: 90100
+## Interface-Retail: 90100
+## Interface-Classic: 11307
+## Interface-BCC: 20501
 ## Title: DeleteConfirmer
 ## Notes: Dangerous addon that instantly confirms any item deletion
+
 DeleteConfirmer.lua
+
+## X-Curse-Project-ID: 377586
